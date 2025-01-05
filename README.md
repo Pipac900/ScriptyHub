@@ -1,2 +1,2 @@
 # ScriptyHub
-idk what to write here.
+## Get the script here
