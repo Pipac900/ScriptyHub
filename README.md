@@ -1,7 +1,7 @@
 # ScriptyHub
 ## Get the script here
 ```lua
-The script is releasing today at 15:30!
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pipac900/ScriptyHub/refs/heads/main/scriptyhub.lua"))()****
 ```
 ## What is ScriptyHub
 ScriptyHub is a hub that lets you use scripts in roblox
